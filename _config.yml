@@ -6,9 +6,9 @@ url:              http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Kristian Carter
+  name:           IdealElement
   avatar:         avatar.png
-  bio:            "Your bio goes here."
+  bio:            "Your bio goes her."
   email:          kristiancarter@fastmail.fm
   # Social networking links used in footer. Update and remove as you like.
   twitter:        http://www.twitter.com/kristiancarter
